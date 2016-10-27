@@ -1,16 +1,16 @@
 # arduino-greenhouse
-A model of greenhouse automated by arduino 
+A model of arduino-automated greenhouse
 
 TO DO:
 
--build physical model of greenhouse
+-build physical model of a greenhouse
 
--add servo and movable roof
+-add a servo and a movable roof
 
--add humidity and temperature sensor
+-add a humidity and temperature sensor
 
--add soil moisture sensor
+-add a soil moisture sensor
 
--add pump and water reservoir
+-add a pump and a water reservoir
 
--make youtube video when all is done :)
+-make a youtube video when all is done :)
