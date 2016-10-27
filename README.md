@@ -1,5 +1,5 @@
 # arduino-greenhouse
-A model of arduino-automated greenhouse
+Model of an arduino-automated greenhouse
 
 TO DO:
 
