@@ -13,4 +13,4 @@ TO DO:
 
 -add pump and water reservoir
 
--make youtube-vid when all is done :)
+-make youtube video when all is done :)
